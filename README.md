@@ -2,6 +2,7 @@ Bot com a função pomodoro, para utilizar utilize !pomodoro (tempo de estudo) (
 Ex: !pomodoro 50 10.
 
 !pip install discord
+
 !pip install nest_asyncio
 
 
